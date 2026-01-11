@@ -17,7 +17,6 @@ RandomForestClassifier(random_state=0)
 clf.predict(X)
 
 text = "Donald trump sucks! I hate him! He is the worst person ever" 
-text = "I'm sorry but I'm more black than Corey Booker and I'm a pale arsed Irishman."
 text = "Bunch of clowns!!! 🤣🤣🤣" #not detected as being negative
 
 # the closer the subjectivity score is to 1, the more opinionated it is
@@ -30,3 +29,4 @@ print(blob.sentiment)
 
 # polarity = blob.sentiment.polarity
 # subjectivity = blob.sentiment.subjectivity
+
