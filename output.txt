@@ -1,0 +1,540 @@
+_________________________________
+Video 1
+Title: President Ronald Reagan's Best Debate Moments, Link: https://www.youtube.com/watch?v=Z97_qDsrqgUViews: 6433811, Likes: 94953
+Number of comments: 61
+Average comment polarity: 0.37707408787326824
+Average comment subjectivity: 0.4437801512391677
+Youtube TITLE polarity: 1.0
+Youtube TITLE subjectivity: 0.3
+
+_________________________________
+Video 2
+Title: Conservatives and Progressives Debate Feminism (Extended Version), Link: https://www.youtube.com/watch?v=WMvih_KEMWoViews: 5073731, Likes: 122034
+Number of comments: 100
+Average comment polarity: 0.2982965605409802
+Average comment subjectivity: 0.5165496261344477
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 3
+Title: Does God Exist? William Lane Craig vs. Christopher Hitchens - Full Debate [HD], Link: https://www.youtube.com/watch?v=0tYm41hb48oViews: 6802356, Likes: 54003
+Number of comments: 100
+Average comment polarity: 0.17544429613045684
+Average comment subjectivity: 0.4719890501363715
+Youtube TITLE polarity: 0.35
+Youtube TITLE subjectivity: 0.55
+
+_________________________________
+Video 4
+Title: The God Debate: Hitchens vs. D'Souza, Link: https://www.youtube.com/watch?v=9V85OykSDT8Views: 7018696, Likes: 36961
+Number of comments: 100
+Average comment polarity: 0.17389870464315785
+Average comment subjectivity: 0.44399201719576714
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 5
+Title: Piers Gets in a Furious Debate on Whether or Not Men Can Be Mothers | Good Morning Britain, Link: https://www.youtube.com/watch?v=UnB7Bi4DfBkViews: 3374994, Likes: 43982Video has no comments._________________________________
+Video 5
+Title: Piers Morgan Loses His Cool During Chivalry Debate | Good Morning Britain, Link: https://www.youtube.com/watch?v=JISpI1h8xysViews: 3861108, Likes: 42534Video has no comments._________________________________
+Video 5
+Title: Cruz, Trump debate 'New York values', Link: https://www.youtube.com/watch?v=TM6qRl3dSMEViews: 365577, Likes: 2707
+Number of comments: 99
+Average comment polarity: 0.09001391028502735
+Average comment subjectivity: 0.4111292898041335
+Youtube TITLE polarity: 0.13636363636363635
+Youtube TITLE subjectivity: 0.45454545454545453
+
+_________________________________
+Video 6
+Title: Rick Perry's 'Oops' Moment at 2011 Presidential Debate, Link: https://www.youtube.com/watch?v=YN8uFJz9gTkViews: 156256, Likes: 878
+Number of comments: 74
+Average comment polarity: 0.09530493277368275
+Average comment subjectivity: 0.2976601244101244
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 7
+Title: Democratic Presidential Debate - June 26 (Full) | NBC News, Link: https://www.youtube.com/watch?v=vJ6MrDO0kgYViews: 4295760, Likes: 28399
+Number of comments: 99
+Average comment polarity: 0.16537196707995605
+Average comment subjectivity: 0.37898031541970933
+Youtube TITLE polarity: 0.35
+Youtube TITLE subjectivity: 0.55
+
+_________________________________
+Video 8
+Title: Trevor Noah Impersonates The Entire GOP Debate, Link: https://www.youtube.com/watch?v=kztkcj-WAvwViews: 2178982, Likes: 15803
+Number of comments: 96
+Average comment polarity: 0.24888369724893156
+Average comment subjectivity: 0.4409324350177215
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.625
+
+_________________________________
+Video 9
+Title: The God Debate II: Harris vs. Craig, Link: https://www.youtube.com/watch?v=yqaHXKLRKzgViews: 12452724, Likes: 54207
+Number of comments: 100
+Average comment polarity: 0.14952172526955426
+Average comment subjectivity: 0.455164157121445
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 10
+Title: Trump Elicits Boos After Spat With Bush [Republican Debate Highlights], Link: https://www.youtube.com/watch?v=TG6_5m8RIIgViews: 1576295, Likes: 14032
+Number of comments: 100
+Average comment polarity: 0.18642933501683498
+Average comment subjectivity: 0.42190932539682535
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 11
+Title: Debate Highlights Songified!, Link: https://www.youtube.com/watch?v=6ti2S7Py25wViews: 4015062, Likes: 36013
+Number of comments: 100
+Average comment polarity: 0.28427780836640204
+Average comment subjectivity: 0.4916167724867724
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 12
+Title: The Second Presidential Debate: Hillary Clinton And Donald Trump (Full Debate) | NBC News, Link: https://www.youtube.com/watch?v=FRlI2SQ0UegViews: 15343865, Likes: 75643
+Number of comments: 100
+Average comment polarity: 0.1975482898070844
+Average comment subjectivity: 0.39489631493506505
+Youtube TITLE polarity: 0.175
+Youtube TITLE subjectivity: 0.275
+
+_________________________________
+Video 13
+Title: (Democratic Debate) Democratic candidates name enemies they're proud of, Link: https://www.youtube.com/watch?v=t48MyL5QdAcViews: 80927, Likes: 229
+Number of comments: 50
+Average comment polarity: 0.18521864725056694
+Average comment subjectivity: 0.44875612244897967
+Youtube TITLE polarity: 0.8
+Youtube TITLE subjectivity: 1.0
+
+_________________________________
+Video 14
+Title: VP Debate Highlights Songified - Biden vs. Ryan 2012, Link: https://www.youtube.com/watch?v=ksXRFRCUatcViews: 3808111, Likes: 20087
+Number of comments: 100
+Average comment polarity: 0.3270994277114255
+Average comment subjectivity: 0.49967474747474744
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 15
+Title: Stephen Moderates An All-Trump Debate, Link: https://www.youtube.com/watch?v=WpKiP_gmDS8Views: 8103673, Likes: 72585
+Number of comments: 100
+Average comment polarity: 0.36334879148629157
+Average comment subjectivity: 0.5597306277056276
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+_________________________________
+Video 16
+Title: Trump Calls Cruz 'Basket Case' During Debate, Link: https://www.youtube.com/watch?v=b38lHlwZlr4Views: 1241129, Likes: 13923Video has no comments._________________________________
+Video 16
+Title: PBS Democratic Debate Cold Open - SNL, Link: https://www.youtube.com/watch?v=142DfJ4Ch1UViews: 6766387, Likes: 62263
+Number of comments: 100
+Average comment polarity: 0.2728250185206659
+Average comment subjectivity: 0.5069327707345564
+Youtube TITLE polarity: -0.3
+Youtube TITLE subjectivity: 0.75
+
+_________________________________
+Video 17
+Title: From Reagan to Obama: Best Moments in Presidential Debate History | WSJ, Link: https://www.youtube.com/watch?v=AJZEZIKo1HgViews: 5201052, Likes: 66783
+Number of comments: 100
+Average comment polarity: 0.17703253968253968
+Average comment subjectivity: 0.3685663029100528
+Youtube TITLE polarity: 1.0
+Youtube TITLE subjectivity: 0.3
+
+_________________________________
+Video 18
+Title: Democratic Debate Cold Open - SNL, Link: https://www.youtube.com/watch?v=pfmwGAd1L-oViews: 15866076, Likes: 69881
+Number of comments: 100
+Average comment polarity: 0.2935515567765567
+Average comment subjectivity: 0.49870751933251917
+Youtube TITLE polarity: -0.3
+Youtube TITLE subjectivity: 0.75
+
+_________________________________
+Video 19
+Title: 2016 Final Presidential Debate: Abortion, Link: https://www.youtube.com/watch?v=Kqbm2YkMP0QViews: 2599940, Likes: 46779
+Number of comments: 100
+Average comment polarity: 0.10251211895743144
+Average comment subjectivity: 0.4039454365079365
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 1.0
+
+_________________________________
+Video 20
+Title: Democratic Presidential Debate - June 27 (Full) | NBC News, Link: https://www.youtube.com/watch?v=cX7hni-zGD8Views: 4490834, Likes: 32686
+Number of comments: 100
+Average comment polarity: 0.14352435778920156
+Average comment subjectivity: 0.46374795360063215
+Youtube TITLE polarity: 0.35
+Youtube TITLE subjectivity: 0.55
+
+_________________________________
+Video 21
+Title: Debate: Does the world need nuclear energy?, Link: https://www.youtube.com/watch?v=UK8ccWSZkic
+Views: 476183, Likes: 4363
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.16835983333961022
+Average comment subjectivity: 0.48424012142288936
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 22
+Title: Kamala Harris attacks Joe Biden's record on race in Democratic debate, Link: https://www.youtube.com/watch?v=S6-UC8yr0Aw
+Views: 1549864, Likes: 12001
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.10084617604617603
+Average comment subjectivity: 0.371936592111592
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 23
+Title: Donald Trump dominates CNN Republican debate, Link: https://www.youtube.com/watch?v=rYjX2daeLE0
+Views: 385056, Likes: 2226
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 99
+Average comment polarity: 0.13966834766313935
+Average comment subjectivity: 0.36674402757736096
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 24
+Title: Clinton, Obama Clash at Debate, Link: https://www.youtube.com/watch?v=opNmTcTwFp0
+Views: 455497, Likes: 2839
+Sentiment(polarity=0.0, subjectivity=0.0)
+Video has no comments.
+_________________________________
+Video 24
+Title: George H. W. Bush And Ronald Reagan Debate On Immigration In 1980 | TIME, Link: https://www.youtube.com/watch?v=YsmgPp_nlok
+Views: 607869, Likes: 10831
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 99
+Average comment polarity: 0.18740397799491454
+Average comment subjectivity: 0.4442250366929221
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 25
+Title: 1996 Presidential Debate: Bill Clinton vs. Bob Dole, Link: https://www.youtube.com/watch?v=0BdyYynJNJo
+Views: 394590, Likes: 2684
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.14028382173382176
+Average comment subjectivity: 0.34417826617826625
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 26
+Title: US Republican debate: "Oops" - watch Rick Perry's  chances in presidential race disappear, Link: https://www.youtube.com/watch?v=ZoNzwJGkM8s
+Views: 186003, Likes: 759
+Sentiment(polarity=0.0, subjectivity=0.0)
+Video has no comments.
+_________________________________
+Video 26
+Title: Full CBS News South Carolina Republican Debate, Link: https://www.youtube.com/watch?v=Un3OhYs-tCE
+Views: 983495, Likes: 5958
+Sentiment(polarity=0.35, subjectivity=0.55)
+
+Number of comments: 99
+Average comment polarity: 0.20167790914192435
+Average comment subjectivity: 0.4207733777165595
+Youtube TITLE polarity: 0.35
+Youtube TITLE subjectivity: 0.55
+
+
+_________________________________
+Video 27
+Title: The Vice-Presidential Debate: Tim Kaine And Mike Pence (Full Debate) | NBC News, Link: https://www.youtube.com/watch?v=mVXqNcW_-HA
+Views: 2468536, Likes: 11311
+Sentiment(polarity=0.35, subjectivity=0.55)
+
+Number of comments: 100
+Average comment polarity: 0.15284892045454546
+Average comment subjectivity: 0.4700233333333332
+Youtube TITLE polarity: 0.35
+Youtube TITLE subjectivity: 0.55
+
+
+_________________________________
+Video 28
+Title: 1992 Vice Presidential Debate Clip, Link: https://www.youtube.com/watch?v=ufZaIts_Pvs
+Views: 75752, Likes: 510
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 59
+Average comment polarity: 0.1091478342749529
+Average comment subjectivity: 0.3268182225809345
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 29
+Title: GOP Debate Cold Open - SNL, Link: https://www.youtube.com/watch?v=r0Th70moeuc
+Views: 8557418, Likes: 51528
+Sentiment(polarity=-0.3, subjectivity=0.75)
+
+Number of comments: 100
+Average comment polarity: 0.26385221636002887
+Average comment subjectivity: 0.4914536435786436
+Youtube TITLE polarity: -0.3
+Youtube TITLE subjectivity: 0.75
+
+
+_________________________________
+Video 30
+Title: The big debate about the future of work, explained, Link: https://www.youtube.com/watch?v=TUmyygCMMGA
+Views: 2193557, Likes: 44388
+Sentiment(polarity=0.0, subjectivity=0.1125)
+
+Number of comments: 98
+Average comment polarity: 0.13027193659642947
+Average comment subjectivity: 0.4490403356275464
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.1125
+
+
+_________________________________
+Video 31
+Title: Old School (9/9) Movie CLIP - That's the Way You Debate (2003) HD, Link: https://www.youtube.com/watch?v=_yYDzLUH1NE
+Views: 979000, Likes: 2680
+Sentiment(polarity=0.1, subjectivity=0.2)
+
+Number of comments: 100
+Average comment polarity: 0.12357619820655534
+Average comment subjectivity: 0.24283284889713463
+Youtube TITLE polarity: 0.1
+Youtube TITLE subjectivity: 0.2
+
+
+_________________________________
+Video 32
+Title: The Most Awkward Political Debate Moments, Link: https://www.youtube.com/watch?v=3BzlVM_zYs0
+Views: 1371358, Likes: 11234
+Sentiment(polarity=-0.033333333333333326, subjectivity=0.5333333333333333)
+
+Number of comments: 100
+Average comment polarity: 0.11295566763545596
+Average comment subjectivity: 0.3629185216217475
+Youtube TITLE polarity: -0.033333333333333326
+Youtube TITLE subjectivity: 0.5333333333333333
+
+
+_________________________________
+Video 33
+Title: We Need Brain: Songify the G.O.P. Debate!, Link: https://www.youtube.com/watch?v=fXHTJ5v4B5I
+Views: 3516062, Likes: 35613
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.34829573626079324
+Average comment subjectivity: 0.5026233761818987
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 34
+Title: The Final Clinton vs. Trump Debate: The Daily Show, Link: https://www.youtube.com/watch?v=of7g9u54WsI
+Views: 4156018, Likes: 41367
+Sentiment(polarity=0.0, subjectivity=0.5)
+
+Number of comments: 100
+Average comment polarity: 0.232408105246684
+Average comment subjectivity: 0.47214876652415333
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.5
+
+
+_________________________________
+Video 35
+Title: The Art of Debate: Never Lose An Argument Again, Link: https://www.youtube.com/watch?v=LesGw274Kjo
+Views: 1083173, Likes: 11899
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 96
+Average comment polarity: 0.16674900569727502
+Average comment subjectivity: 0.42785211401574247
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 36
+Title: Climate Change Debate: Last Week Tonight with John Oliver (HBO), Link: https://www.youtube.com/watch?v=cjuGCJJUGsg
+Views: 8885549, Likes: 91913
+Sentiment(polarity=0.0, subjectivity=0.06666666666666667)
+
+Number of comments: 100
+Average comment polarity: 0.25108216991341986
+Average comment subjectivity: 0.5323693814122383
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.06666666666666667
+
+
+_________________________________
+Video 37
+Title: 2012 Vice Presidential Debate - SNL, Link: https://www.youtube.com/watch?v=kUsF9xmvpOM
+Views: 1495626, Likes: 16074
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.24258088135822511
+Average comment subjectivity: 0.3811031926406927
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 38
+Title: Watch the full  third presidential debate between Hillary Clinton and Donald Trump, Link: https://www.youtube.com/watch?v=BfKMzwYAqW4
+Views: 239861, Likes: 1067
+Sentiment(polarity=0.175, subjectivity=0.275)
+Video has no comments.
+_________________________________
+Video 38
+Title: George Bush Debate - SNL, Link: https://www.youtube.com/watch?v=N_01LySbRnY
+Views: 955791, Likes: 7041
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.29964920334295336
+Average comment subjectivity: 0.5078200787638288
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 39
+Title: The moment this transgender debate got heated, Link: https://www.youtube.com/watch?v=YgQy70_LPS4
+Views: 12722201, Likes: 164177
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.10629676376863878
+Average comment subjectivity: 0.46388376623376637
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 40
+Title: Joe Biden clashes with rivals in second Democratic debate, Link: https://www.youtube.com/watch?v=FeyxYHq7pRI
+Views: 113055, Likes: 468
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.08399849386724387
+Average comment subjectivity: 0.4161495129870131
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 41
+Title: 2020 November Democratic Debate in Atlanta | The Daily Show, Link: https://www.youtube.com/watch?v=6az-1JokCN4
+Views: 3275525, Likes: 44836
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 100
+Average comment polarity: 0.16021866170473875
+Average comment subjectivity: 0.4370978458049886
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+_________________________________
+Video 42
+Title: Justice: What's The Right Thing To Do? Episode 12: "DEBATING SAME-SEX MARRIAGE", Link: https://www.youtube.com/watch?v=EzD9P-9sj4M
+Views: 849808, Likes: 7062
+Sentiment(polarity=0.2857142857142857, subjectivity=0.5357142857142857)
+
+Number of comments: 99
+Average comment polarity: 0.2705520711415044
+Average comment subjectivity: 0.491230891422991
+Youtube TITLE polarity: 0.2857142857142857
+Youtube TITLE subjectivity: 0.5357142857142857
+
+
+_________________________________
+Video 43
+Title: First GOP Debate: Donald Trump, and Other Memorable Moments, Link: https://www.youtube.com/watch?v=U2zjsh5noOw
+Views: 1029422, Likes: 6999
+Sentiment(polarity=0.20833333333333334, subjectivity=0.5694444444444444)
+
+Number of comments: 100
+Average comment polarity: 0.23335864222582972
+Average comment subjectivity: 0.4597900958994709
+Youtube TITLE polarity: 0.20833333333333334
+Youtube TITLE subjectivity: 0.5694444444444444
+
+
+_________________________________
+Video 44
+Title: Third Presidential Debate Highlights | Trump, Clinton on Abortion, Link: https://www.youtube.com/watch?v=NfdRmnT0Weo
+Views: 303166, Likes: 1135
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Number of comments: 99
+Average comment polarity: 0.10085852731190034
+Average comment subjectivity: 0.43268350668001954
+Youtube TITLE polarity: 0.0
+Youtube TITLE subjectivity: 0.0
+
+
+Video P:	Aud P:	Pred P:	 Views:	 Likes:	
+0.05	0.2	0.2000000000000001	1000000	5000
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+-0.033333333333333326	0.11295566763545596	0.11295566763545607	1371358	11234
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+-0.033333333333333326	0.11295566763545596	0.11295566763545607	1371358	11234
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+-0.033333333333333326	0.11295566763545596	0.11295566763545607	1371358	11234
+-0.3	0.2728250185206659	0.27282501852066593	6766387	62263
+-0.3	0.2728250185206659	0.27282501852066593	6766387	62263
+-0.3	0.2728250185206659	0.27282501852066593	6766387	62263
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+-0.3	0.2728250185206659	0.27282501852066593	6766387	62263
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+-0.3	0.2728250185206659	0.27282501852066593	6766387	62263
+-0.3	0.2935515567765567	0.29355155677655675	15866076	69881
+-0.3	0.2728250185206659	0.27282501852066593	6766387	62263
+-0.3	0.2728250185206659	0.27282501852066593	6766387	62263
+-0.3	0.2935515567765567	0.29355155677655675	15866076	69881
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+-0.3	0.26385221636002887	0.2638522163600289	8557418	51528
+Mean Square Error: 4.468157470978387e-33
+MSE(Rounded): 0.0
